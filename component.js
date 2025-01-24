@@ -6,7 +6,7 @@ const btnService = document.querySelector('.service-button');
 const btnProject = document.querySelector('.project-button');
 
 btnService.addEventListener('click', () => {
-    window.location.href = '/Mamello/menu.html';
+    window.location.href = 'menu.html';
 });
 
 btnProject.addEventListener('click', () => {
